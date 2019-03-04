@@ -1,0 +1,24 @@
+Script started on 2019年03月 4日 下午 10:56:02
+]0;~
+[32myenmi@LAPTOP-UNMRNALJ [33m~[0m
+$ whi[Koami;[K; [Kpwd
+yenmi
+/home/yenmi
+]0;~
+[32myenmi@LAPTOP-UNMRNALJ [33m~[0m
+$ git coni[Kgi[K[Kfig p[K-l
+[?1h=user.email=yenming2000.chen@gmail.com[m
+user.name=yenming[m
+[K[?1l>]0;~
+[32myenmi@LAPTOP-UNMRNALJ [33m~[0m
+$ git clone http[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit config -l[C[C[3Pwhoami;pwd[C[Cscript lab1.script[C[Cgit config --global user.email yenming2000.chen@gmail.com[C[Cvim --version[K[C[Cgit[C[C[C[C[C[C[C[C[C[C[C[C[C++[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[Kgit clone https://github.com/yenmingchen/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;~
+[32myenmi@LAPTOP-UNMRNALJ [33m~[0m
+$ git clone https://github.com/yenmingchen/lab1.git[1P.git[1P.git[1P.git[1P.gitl/.git[1P/.git,/.git[1P/.git[C/.gitl/.gita/.gitb/.git1/.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;~
+[32myenmi@LAPTOP-UNMRNALJ [33m~[0m
+$ cat[K[K[Kcat[K[K[Kexit
+
+Script done on 2019年03月 4日 下午 10:59:11
